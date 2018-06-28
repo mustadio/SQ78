@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FPC)(type KiCad)(uri D:/Softwares/KiCad/share/kicad/modules/FPC.pretty)(options "")(descr ""))
+  (lib (name keyboard)(type KiCad)(uri D:/Softwares/KiCad/share/kicad/modules/keyboard.pretty)(options "")(descr ""))
+)
